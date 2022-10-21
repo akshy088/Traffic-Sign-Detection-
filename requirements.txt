@@ -1,0 +1,8 @@
+pandas
+numpy
+keras
+tensorflow
+h5py
+flask
+Pillow
+gunicorn
